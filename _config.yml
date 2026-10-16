@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
+avatar: "https://media.licdn.com/dms/image/v2/D5603AQHUC5eJdngYdw/profile-displayphoto-scale_200_200/B56ZlOxskgJwAg-/0/1757963275524?e=2147483647&v=beta&t=RwbgaaSECz5PzGxBXVDTCoQscl61i6tvNDBQ2YBRyQo"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

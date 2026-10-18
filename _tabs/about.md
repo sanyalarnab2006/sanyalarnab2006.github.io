@@ -1,8 +1,13 @@
 ---
-# the default layout is 'page'
+layout: page
+title: About
+permalink: /about/
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+##About me
+
+> "Love is a dagger. It's a weapon to be wielded far away or up close. You can see yourself in it. It's beautiful. Until it makes you bleed."
+>
+> -Loki, 'Lamentis'

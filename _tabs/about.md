@@ -12,4 +12,5 @@ order: 4
 >
 > -Loki, 'Lamentis'
 
+Hey all! I am Arnab Sanyal, a Third(and final) year B. Stat student at Indian Statistical Institute(ISI) Kolkata. I am mostly interested in Number Theory, typically the analytic aspects and am currently trying to understand some of the algebraic stuff too.
 
